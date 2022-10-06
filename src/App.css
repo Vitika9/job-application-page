@@ -1,0 +1,276 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+}
+
+:root {
+    --color1: #666af6;
+    --color2: #e17b77;
+    --box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+
+@media screen and (max-width: 900px) {
+    .row-container {
+        flex-direction: column;
+    }
+
+    .rev {
+        flex-direction: column-reverse;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .row-container .ill {
+        height: 12rem;
+        width: 18rem;
+    }
+}
+
+.App {
+    padding: 1rem;
+}
+
+#heading {
+    margin: 1rem;
+    font-size: 2rem;
+}
+
+.application-container {
+    margin: 1rem;
+    background-color: white;
+    border-radius: .5rem;
+    box-shadow: var(--box-shadow);
+}
+
+.application-headings-container {
+    padding: 1rem;
+    display: flex;
+    transition: background-color 1s;
+    align-items: center;
+}
+
+.application-headings-container:hover {
+    background-color: rgb(234, 234, 245);
+}
+
+.company-logo {
+    margin-right: 1rem;
+    height: 3rem;
+    width: 3rem;
+}
+
+.company-name {
+    margin-bottom: .5rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.application-extra-info-container {
+    padding: 0rem 1rem;
+    overflow: hidden;
+    max-height: 0rem;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+@keyframes expand {
+    from {
+        max-height: 0rem;
+    }
+
+    to {
+        max-height: 200rem;
+    }
+}
+
+@keyframes collapse {
+    from {
+    }
+
+    to {
+        max-height: 0rem;
+    }
+}
+
+.nav-links-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 1rem 0rem;
+    box-shadow: var(--box-shadow);
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+    list-style: none;
+    padding: 1rem;
+}
+
+.nav-link:hover {
+    color: var(--color1);
+}
+
+.active {
+    font-weight: bold;
+    box-shadow: var(--box-shadow);
+}
+
+.candidate-info-container {
+    margin: 1rem;
+}
+
+.candidate-photo {
+    height: 3rem;
+    width: 3rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    box-shadow: var(--box-shadow);
+}
+
+.msg-container {
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: var(--box-shadow);
+}
+
+.timeline-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position: relative;
+    margin: 1rem 0;
+    width: 70%;
+}
+
+.timeline-container::after {
+    background-color: var(--color2);
+    content: '';
+    position: absolute;
+    left: calc(50% - 2px);
+    width: .4rem;
+    height: 100%;
+}
+
+.timeline-item-container {
+    padding: 1rem;
+    right: 55%;
+    border-radius: 1rem;
+    box-shadow: var(--box-shadow);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 40%;
+}
+
+.timeline-item-container:nth-child(odd) {
+    left: 55%;
+    right: auto;
+    align-self: flex-start;
+    justify-content: flex-start;
+}
+
+.text {
+    color: var(--color1);
+    font-weight: bold;
+}
+
+.value {
+    color: var(--color2);
+    font-weight: bold;
+}
+
+.circle {
+    background-color: white;
+    border: 3px solid var(--color2);
+    border-radius: 50%;
+    position: absolute;
+    top: calc(50% - .5rem);
+    left: calc(110% - .5rem);
+    width: 1rem;
+    height: 1rem;
+    z-index: 100;
+}
+
+.timeline-item-container:nth-child(odd) .circle {
+    right: auto;
+    left: -37px;
+    left: auto;
+    right: calc(109% - .5rem);
+}
+
+.company-des {
+    margin: 1rem;
+}
+
+
+
+.props {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.property-container {
+    box-shadow: var(--box-shadow);
+    border-radius: 1rem;
+    padding: 1rem 4rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li {
+    list-style-position: inside;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+
+
+
+
+.row-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rev-row-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.company-about {
+    box-shadow: var(--box-shadow);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+}
+
+.ill {
+    height: 16rem;
+    width: 24rem;
+}
+.card {
+    box-shadow: var(--box-shadow);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 1rem 0rem;
+}
+

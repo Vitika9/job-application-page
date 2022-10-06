@@ -1,0 +1,493 @@
+{
+    "applications": [
+        {
+            "id": 0,
+            "company": "Google",
+            "companyLogoURL": "https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-google-icon-logo-png-transparent-svg-vector-bie-supply-14.png",
+            "role": "SDE",
+            "status": "Pending",
+            "extraInfo": {
+                "applicationInfo": {
+                    "candidatePhotoURL": "https://media-exp1.licdn.com/dms/image/C4D03AQGfQ9mwWSUZ5Q/profile-displayphoto-shrink_400_400/0/1655040632075?e=1670457600&v=beta&t=GcOPCocNA13cyhlesVfe3xuhLJtHXbGGyrLEqMz8Bnk",
+                    "candidateMsg": "I participated in Google Summer of Code this year (only around 1200 developers get selected each year) in which I worked as an open source developer for Godot Engine for a duration of 3 months which got me experience of how a large project is maintained and how developers work together to deliver solutions through version control system. I have enough familiarity with web development to work as an intern and I am always ready to learn new technologies with minimum or no guidance through reading documentation and open source examples, you can see my real-time chat room project in my resume as a sample. I have experience of open source development and programming game bots which got me skills of logical, optimized and clean code writing which makes me capable of doing this internship with aim of giving exceptional performance.",
+                    "timeline": [
+                        {
+                            "text": "Posted By Company On",
+                            "date": "22 Sept 22"
+                        },
+                        {
+                            "text": "You Applied On",
+                            "date": "23 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Given On",
+                            "date": "25 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Deadline",
+                            "date": "26 Sept 22"
+                        },
+                        {
+                            "text": "Interview On",
+                            "date": "01 Oct 22"
+                        },
+                        {
+                            "text": "Final Decision On",
+                            "date": "02 Oct 22"
+                        }
+                    ]
+                },
+                "companyDescription": {
+                    "des": "Google LLC is an American multinational technology company that focuses on search engine technology, online advertising, cloud computing, computer software, quantum computing, e-commerce, artificial intelligence, and consumer electronics. It has been referred to as the \"most powerful company in the world\" and one of the world's most valuable brands due to its market dominance, data collection, and technological advantages in the area of artificial intelligence. It is considered one of the Big Five American information technology companies, alongside Amazon, Apple, Meta, and Microsoft.",
+                    "props": [
+                        {
+                            "text": "Location",
+                            "value": "Indore"
+                        },
+                        {
+                            "text": "Company Size",
+                            "value": "10-50"
+                        },
+                        {
+                            "text": "Rating",
+                            "value": "5 Stars"
+                        }
+                        ,
+                        {
+                            "text": "Website",
+                            "value": "www.google.com"
+                        }
+                    ]
+                },
+                "roleDescription": {
+                    "props": [
+                        {
+                            "text": "Salary",
+                            "value": "120k"
+                        },
+                        {
+                            "text": "Location",
+                            "value": "Banglore"
+                        },
+                        {
+                            "text": "Start Date",
+                            "value": "02 Oct 22"
+                        },
+                        {
+                            "text": "Number of Applicants",
+                            "value": 10
+                        }
+                        
+                    ],
+                    "responsibilities": [
+                        "Aligning with the founder team's vision and driving the technical roadmap of the team in collaboration with software and product engineers in your areas",
+                        "Researching, designing, building, and deploying highly reliable, available, and scalable technology products",
+                        "Estimating and managing deliveries of features in a predictable manner",
+                        "Solving problems independently, with maximum ownership of the projects you work on"
+                    ],
+                    "qualifications": [
+                        "Bachelor's degree in Computer Science, or equivalent practical experience.",
+                        "1-3 years experience in Web front end development, relevant experience with ReactJS, NextJS",
+                        "Worked on scalable server side and client side rendered applications"
+                    ],
+                    "skillsRequired": [
+                        "Proficient understanding of client-side scripting and JavaScript libraries & frameworks especially NextJS, React, Gatsby etc.",
+                        "Nice to Haves: Prior experience at growth stage tech startup and leading independent feature",
+                        "Familiarity with working with CSS frameworks like Bootstrap or Materialize CSS.",
+                        "Proficient understanding of cross-browser compatibility issues and experience handling mobile first design."
+                    ]
+                }
+            }
+        },
+        {
+            "id": 1,
+            "company": "Facebook",
+            "companyLogoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWR-3JHEaCUr4wo2Zf_nuoqLP8-IiMB7mkw&usqp=CAU",
+            "role": "Front-end Developer",
+            "status": "In-Touch",
+            "extraInfo": {
+                "applicationInfo": {
+                    "candidatePhotoURL": "https://media-exp1.licdn.com/dms/image/C4D03AQGfQ9mwWSUZ5Q/profile-displayphoto-shrink_400_400/0/1655040632075?e=1670457600&v=beta&t=GcOPCocNA13cyhlesVfe3xuhLJtHXbGGyrLEqMz8Bnk",
+                    "candidateMsg": "I participated in Google Summer of Code this year (only around 1200 developers get selected each year) in which I worked as an open source developer for Godot Engine for a duration of 3 months which got me experience of how a large project is maintained and how developers work together to deliver solutions through version control system. I have enough familiarity with web development to work as an intern and I am always ready to learn new technologies with minimum or no guidance through reading documentation and open source examples, you can see my real-time chat room project in my resume as a sample. I have experience of open source development and programming game bots which got me skills of logical, optimized and clean code writing which makes me capable of doing this internship with aim of giving exceptional performance.",
+                    "timeline": [
+                        {
+                            "text": "Posted By Company On",
+                            "date": "25 Sept 22"
+                        },
+                        {
+                            "text": "You Applied On",
+                            "date": "27 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Given On",
+                            "date": "29 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Deadline",
+                            "date": "30 Sept 22"
+                        },
+                        {
+                            "text": "Interview On",
+                            "date": "1 Oct 22"
+                        },
+                        {
+                            "text": "Final Decision On",
+                            "date": "5 Oct 22"
+                        }
+                    ]
+                },
+                "companyDescription": {
+                    "website": "www.facebook.com",
+                    "des": "Facebook is a social networking site that makes it easy for you to connect and share with family and friends online. Originally designed for college students, Facebook was created in 2004 by Mark Zuckerberg while he was enrolled at Harvard University. By 2006, anyone over the age of 13 with a valid email address could join Facebook. Today, Facebook is the world's largest social network, with more than 1 billion users worldwide.",
+                    "props": [
+                        {
+                            "text": "Location",
+                            "value": "Indore"
+                        },
+                        {
+                            "text": "Company Size",
+                            "value": "10-50"
+                        },
+                        {
+                            "text": "Rating",
+                            "value": "5 Stars"
+                        },
+                        {
+                            "text": "Website",
+                            "value": "www.facebook.com"
+                        }
+                    ]
+                },
+                "roleDescription": {
+                    "props": [
+                        {
+                            "text": "Salary",
+                            "value": "50k"
+                        },
+                        {
+                            "text": "Location",
+                            "value": "Remote"
+                        },
+                        {
+                            "text": "Start Date",
+                            "value": "10 Oct 22"
+                        },
+                        {
+                            "text": "Number of Applicants",
+                            "value": 10
+                        }
+                    ],
+                    "responsibilities": [
+                        "Aligning with the founder team's vision and driving the technical roadmap of the team in collaboration with software and product engineers in your areas",
+                        "Researching, designing, building, and deploying highly reliable, available, and scalable technology products",
+                        "Estimating and managing deliveries of features in a predictable manner",
+                        "Solving problems independently, with maximum ownership of the projects you work on"
+                    ],
+                    "qualifications": [
+                        "Bachelor's degree in Computer Science, or equivalent practical experience.",
+                        "1-3 years experience in Web front end development, relevant experience with ReactJS, NextJS",
+                        "Worked on scalable server side and client side rendered applications"
+                    ],
+                    "skillsRequired": [
+                        "Proficient understanding of client-side scripting and JavaScript libraries & frameworks especially NextJS, React, Gatsby etc.",
+                        "Nice to Haves: Prior experience at growth stage tech startup and leading independent feature",
+                        "Familiarity with working with CSS frameworks like Bootstrap or Materialize CSS.",
+                        "Proficient understanding of cross-browser compatibility issues and experience handling mobile first design."
+                    ]
+                }
+            }
+        },
+        {
+            "id": 2,
+            "company": "Amazon",
+            "companyLogoURL": "data:image/png;base64,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",
+            "role": "Back-end Developer",
+            "status": "Rejected",
+            "extraInfo": {
+                "applicationInfo": {
+                    "candidatePhotoURL": "https://media-exp1.licdn.com/dms/image/C4D03AQGfQ9mwWSUZ5Q/profile-displayphoto-shrink_400_400/0/1655040632075?e=1670457600&v=beta&t=GcOPCocNA13cyhlesVfe3xuhLJtHXbGGyrLEqMz8Bnk",
+                    "candidateMsg": "I participated in Google Summer of Code this year (only around 1200 developers get selected each year) in which I worked as an open source developer for Godot Engine for a duration of 3 months which got me experience of how a large project is maintained and how developers work together to deliver solutions through version control system. I have enough familiarity with web development to work as an intern and I am always ready to learn new technologies with minimum or no guidance through reading documentation and open source examples, you can see my real-time chat room project in my resume as a sample. I have experience of open source development and programming game bots which got me skills of logical, optimized and clean code writing which makes me capable of doing this internship with aim of giving exceptional performance.",
+                    "timeline": [
+                        {
+                            "text": "Posted By Company On",
+                            "date": "25 Sept 22"
+                        },
+                        {
+                            "text": "You Applied On",
+                            "date": "26 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Given On",
+                            "date": "28 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Deadline",
+                            "date": "30 Sept 22"
+                        },
+                        {
+                            "text": "Interview On",
+                            "date": "1 Oct 22"
+                        },
+                        {
+                            "text": "Final Decision On",
+                            "date": "5 Oct 22"
+                        }
+                    ]
+                },
+                "companyDescription": {
+                    "website": "www.amazon.com",
+                    "des": "Amazon.com is a vast Internet-based enterprise that sells books, music, movies, housewares, electronics, toys, and many other goods, either directly or as the middleman between other retailers and Amazon.com’s millions of customers. Its Web services business includes renting data storage and computing resources, so-called “cloud computing,” over the Internet. Its considerable online presence is such that, in 2012, 1 percent of all Internet traffic in North America traveled in and out of Amazon.com data centres.",
+                    "props": [
+                        {
+                            "text": "Location",
+                            "value": "Indore"
+                        },
+                        {
+                            "text": "Company Size",
+                            "value": "10-50"
+                        },
+                        {
+                            "text": "Rating",
+                            "value": "5 Stars"
+                        },
+                        {
+                            "text": "Amazon",
+                            "value": "www.amazon.com"
+                        }
+                    ]
+                },
+                "roleDescription": {
+                    "props": [
+                        {
+                            "text": "Salary",
+                            "value": "50k"
+                        },
+                        {
+                            "text": "Location",
+                            "value": "Remote"
+                        },
+                        {
+                            "text": "Start Date",
+                            "value": "10 Oct 22"
+                        },
+                        {
+                            "text": "Number of Applicants",
+                            "value": 10
+                        }
+                    ],
+                    "responsibilities": [
+                        "Aligning with the founder team's vision and driving the technical roadmap of the team in collaboration with software and product engineers in your areas",
+                        "Researching, designing, building, and deploying highly reliable, available, and scalable technology products",
+                        "Estimating and managing deliveries of features in a predictable manner",
+                        "Solving problems independently, with maximum ownership of the projects you work on"
+                    ],
+                    "qualifications": [
+                        "Bachelor's degree in Computer Science, or equivalent practical experience.",
+                        "1-3 years experience in Web front end development, relevant experience with ReactJS, NextJS",
+                        "Worked on scalable server side and client side rendered applications"
+                    ],
+                    "skillsRequired": [
+                        "Proficient understanding of client-side scripting and JavaScript libraries & frameworks especially NextJS, React, Gatsby etc.",
+                        "Nice to Haves: Prior experience at growth stage tech startup and leading independent feature",
+                        "Familiarity with working with CSS frameworks like Bootstrap or Materialize CSS.",
+                        "Proficient understanding of cross-browser compatibility issues and experience handling mobile first design."
+                    ]
+                }
+            }
+        },
+        {
+            "id": 3,
+            "company": "Microsoft",
+            "companyLogoURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEXz8/PzUyWBvAYFpvD/ugjz9PX19PXz+fr39fr69vPy9fp5uAAAofD/tgDz3Nji6tfzRADzTBfzmYew0oB/xfH70IDX5/P16tfz5eLo7eHzPADzlICs0Hfh6/N3wvH7znj07eEAnvDzvbPL3q6u1/L43q6vy/leAAABd0lEQVR4nO3cR1IDQRREwcb0SEgj770B7n9FNmhEBL1g8zUs8l2gIi9QKUmSpHs5vPtWFV4uANMwunUD3IyiS7+Jebgdx7bddb63uvt+dKOqIBw/xTaZNsLZc3CEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEjxVuJ7GNfwj7LQjTejcN7noTVu+z4PabgjB1wmumqm50JaAkSX/oLbxmKveiK/zqp8NxHtvx40bMn6dFbKdzgbi81MEdb8LeaRDdqiSsX2Kr541wMXiNjZCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkPCxwuj/0kvb/6V5Gd2hmTqvokulm90HluNrFyhJ0j/rC6N0RI28dGy3AAAAAElFTkSuQmCC",
+            "role": "Full Stack Developer",
+            "status": "Pending",
+            "extraInfo": {
+                "applicationInfo": {
+                    "candidatePhotoURL": "https://media-exp1.licdn.com/dms/image/C4D03AQGfQ9mwWSUZ5Q/profile-displayphoto-shrink_400_400/0/1655040632075?e=1670457600&v=beta&t=GcOPCocNA13cyhlesVfe3xuhLJtHXbGGyrLEqMz8Bnk",
+                    "candidateMsg": "I participated in Google Summer of Code this year (only around 1200 developers get selected each year) in which I worked as an open source developer for Godot Engine for a duration of 3 months which got me experience of how a large project is maintained and how developers work together to deliver solutions through version control system. I have enough familiarity with web development to work as an intern and I am always ready to learn new technologies with minimum or no guidance through reading documentation and open source examples, you can see my real-time chat room project in my resume as a sample. I have experience of open source development and programming game bots which got me skills of logical, optimized and clean code writing which makes me capable of doing this internship with aim of giving exceptional performance.",
+                    "timeline": [
+                        {
+                            "text": "Posted By Company On",
+                            "date": "25 Sept 22"
+                        },
+                        {
+                            "text": "You Applied On",
+                            "date": "26 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Given On",
+                            "date": "28 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Deadline",
+                            "date": "30 Sept 22"
+                        },
+                        {
+                            "text": "Interview On",
+                            "date": "1 Oct 22"
+                        },
+                        {
+                            "text": "Final Decision On",
+                            "date": "5 Oct 22"
+                        }
+                    ]
+                },
+                "companyDescription": {
+                    "des": "Microsoft is the world’s largest and most successful publisher of operating systems and application programs for personal computers, headquartered in Redmond, Washington. Key products include the company’s consumer operating systems (Windows XP Home), its corporate workstation and server operating systems (Windows 2000 Server and Windows Server 2003), its market-leading office suite called Office (including Word, Excel, PowerPoint, Access, and Outlook), and the market-leading Web browser (Internet Explorer). The firm’s critics view the company’s .NET initiative as an attempt to transform the Internet into a system by which clients communicate with servers, thus eliminating Microsoft’s competitors from the emerging, highly profitable market for services such as digital music distribution. See Office, Windows, .NET, Web Services.",
+                    "props": [
+                        {
+                            "text": "Location",
+                            "value": "Indore"
+                        },
+                        {
+                            "text": "Company Size",
+                            "value": "10-50"
+                        },
+                        {
+                            "text": "Rating",
+                            "value": "5 Stars"
+                        },
+                        {
+                            "text": "Website",
+                            "value": "www.microsoft.com"
+                        }
+                    ]
+                },
+                "roleDescription": {
+                    "props": [
+                        {
+                            "text": "Salary",
+                            "value": "100k"
+                        },
+                        {
+                            "text": "Location",
+                            "value": "Remote"
+                        },
+                        {
+                            "text": "Start Date",
+                            "value": "10 Oct 22"
+                        },
+                        {
+                            "text": "Number of Applicants",
+                            "value": 10
+                        }
+                    ],
+                    "responsibilities": [
+                        "Aligning with the founder team's vision and driving the technical roadmap of the team in collaboration with software and product engineers in your areas",
+                        "Researching, designing, building, and deploying highly reliable, available, and scalable technology products",
+                        "Estimating and managing deliveries of features in a predictable manner",
+                        "Solving problems independently, with maximum ownership of the projects you work on"
+                    ],
+                    "qualifications": [
+                        "Bachelor's degree in Computer Science, or equivalent practical experience.",
+                        "1-3 years experience in Web front end development, relevant experience with ReactJS, NextJS",
+                        "Worked on scalable server side and client side rendered applications"
+                    ],
+                    "skillsRequired": [
+                        "Proficient understanding of client-side scripting and JavaScript libraries & frameworks especially NextJS, React, Gatsby etc.",
+                        "Nice to Haves: Prior experience at growth stage tech startup and leading independent feature",
+                        "Familiarity with working with CSS frameworks like Bootstrap or Materialize CSS.",
+                        "Proficient understanding of cross-browser compatibility issues and experience handling mobile first design."
+                    ]
+                }
+            }
+        },
+        {
+            "id": 4,
+            "company": "LinkedIn",
+            "companyLogoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-KrdMhEOVpTlNsQC6UZYvS3MZ9jxK2jVGw&usqp=CAU",
+            "role": "SDE",
+            "status": "Pending",
+            "extraInfo": {
+                "applicationInfo": {
+                    "candidatePhotoURL": "https://media-exp1.licdn.com/dms/image/C4D03AQGfQ9mwWSUZ5Q/profile-displayphoto-shrink_400_400/0/1655040632075?e=1670457600&v=beta&t=GcOPCocNA13cyhlesVfe3xuhLJtHXbGGyrLEqMz8Bnk",
+                    "candidateMsg": "I participated in Google Summer of Code this year (only around 1200 developers get selected each year) in which I worked as an open source developer for Godot Engine for a duration of 3 months which got me experience of how a large project is maintained and how developers work together to deliver solutions through version control system. I have enough familiarity with web development to work as an intern and I am always ready to learn new technologies with minimum or no guidance through reading documentation and open source examples, you can see my real-time chat room project in my resume as a sample. I have experience of open source development and programming game bots which got me skills of logical, optimized and clean code writing which makes me capable of doing this internship with aim of giving exceptional performance.",
+                    "timeline": [
+                        {
+                            "text": "Posted By Company On",
+                            "date": "25 Sept 22"
+                        },
+                        {
+                            "text": "You Applied On",
+                            "date": "26 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Given On",
+                            "date": "28 Sept 22"
+                        },
+                        {
+                            "text": "Assignment Deadline",
+                            "date": "30 Sept 22"
+                        },
+                        {
+                            "text": "Interview On",
+                            "date": "1 Oct 22"
+                        },
+                        {
+                            "text": "Final Decision On",
+                            "date": "5 Oct 22"
+                        }
+                    ]
+                },
+                "companyDescription": {
+                    "des": "LinkedIn is the world's largest professional network on the internet. You can use LinkedIn to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in your career. You can access LinkedIn from a desktop, LinkedIn mobile app, mobile web experience, or the LinkedIn Lite Android mobile app.",
+                    "props": [
+                        {
+                            "text": "Location",
+                            "value": "Indore"
+                        },
+                        {
+                            "text": "Company Size",
+                            "value": "20-50"
+                        },
+                        {
+                            "text": "Rating",
+                            "value": "4 Stars"
+                        },
+                        {
+                            "text": "Website",
+                            "value": "www.linkedin.com"
+                        }
+                    ]
+                },
+                "roleDescription": {
+                    "props": [
+                        {
+                            "text": "Salary",
+                            "value": "60k"
+                        },
+                        {
+                            "text": "Location",
+                            "value": "Indore"
+                        },
+                        {
+                            "text": "Start Date",
+                            "value": "14 Oct 22"
+                        },
+                        {
+                            "text": "Number of Applicants",
+                            "value": 90
+                        }
+                    ],
+                    "responsibilities": [
+                        "Aligning with the founder team's vision and driving the technical roadmap of the team in collaboration with software and product engineers in your areas",
+                        "Researching, designing, building, and deploying highly reliable, available, and scalable technology products",
+                        "Estimating and managing deliveries of features in a predictable manner",
+                        "Solving problems independently, with maximum ownership of the projects you work on"
+                    ],
+                    "qualifications": [
+                        "Bachelor's degree in Computer Science, or equivalent practical experience.",
+                        "1-3 years experience in Web front end development, relevant experience with ReactJS, NextJS",
+                        "Worked on scalable server side and client side rendered applications"
+                    ],
+                    "skillsRequired": [
+                        "Proficient understanding of client-side scripting and JavaScript libraries & frameworks especially NextJS, React, Gatsby etc.",
+                        "Nice to Haves: Prior experience at growth stage tech startup and leading independent feature",
+                        "Familiarity with working with CSS frameworks like Bootstrap or Materialize CSS.",
+                        "Proficient understanding of cross-browser compatibility issues and experience handling mobile first design."
+                    ]
+                }
+            }
+        }
+    ]
+}

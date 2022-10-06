@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/job-application-page/static/css/main.90be4e62.css",
+    "main.js": "/job-application-page/static/js/main.d8defbbe.js",
+    "static/media/skills.png": "/job-application-page/static/media/skills.824f80a4fd46675c38dc.png",
+    "static/media/company-desc.png": "/job-application-page/static/media/company-desc.22f9ef53cc58d2539075.png",
+    "static/media/responsibilities.png": "/job-application-page/static/media/responsibilities.71694ec1a756b942f05a.png",
+    "static/media/timeline.png": "/job-application-page/static/media/timeline.28b3397370d9de0d1b88.png",
+    "static/media/qualifications.png": "/job-application-page/static/media/qualifications.05cdddbeca0889ca7d9b.png",
+    "static/media/candidate-info.png": "/job-application-page/static/media/candidate-info.00590ad0ce43fd741b7d.png",
+    "index.html": "/job-application-page/index.html",
+    "main.90be4e62.css.map": "/job-application-page/static/css/main.90be4e62.css.map",
+    "main.d8defbbe.js.map": "/job-application-page/static/js/main.d8defbbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90be4e62.css",
+    "static/js/main.d8defbbe.js"
+  ]
+}
